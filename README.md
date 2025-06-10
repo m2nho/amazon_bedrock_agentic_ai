@@ -2,8 +2,8 @@
 
 이 저장소는 AWS Bedrock을 활용한 Agentic AI 워크샵의 실습 코드를 포함하고 있습니다. 개인 맞춤형 재테크 어드바이저(AI Investment Advisor)를 구축하면서 Agentic AI의 핵심 패턴들을 학습합니다.
 
-> 🔗 **[Amazon Bedrock Agentic AI Workshop - AI Investment Advisor](https://catalog.us-east-1.prod.workshops.aws/workshops/5d74d234-0149-4b82-982a-4c040b85d0f2)**  
-> AWS Workshop Studio에서 제공되는 상세 실습 가이드입니다. 각 Lab의 단계별 설명을 확인할 수 있습니다.
+> 🔗 **[Amazon Bedrock Agentic AI - AI Investment Advisor](/workbook)**  
+> 다음 코드를 실행시키는 가이드입니다. 각 Lab의 단계별 설명을 확인할 수 있습니다.
 
 ![Architecture](dataset/images/concept.png)
 
@@ -50,7 +50,7 @@
 ```
 
 ### Lab 1: 재무 분석가 (Financial Analyst)
-> [Lab 1 실습 가이드](https://catalog.us-east-1.prod.workshops.aws/workshops/5d74d234-0149-4b82-982a-4c040b85d0f2/ko-KR/app/lab1)
+> [Lab 1 실습 가이드](workbook/3. AI 투자 어드바이저/3-1. Lab 1: 재무 분석가 (Reflection))
 
 <img src="dataset/images/lab1_architecture.png" width="70%" alt="Agentic AI Workshop Overview">
 
@@ -62,7 +62,7 @@
 3. Lambda 함수 구성 및 테스트
 
 ### Lab 2: 포트폴리오 설계사 (Portfolio Architect)
-> [Lab 2 실습 가이드](https://catalog.us-east-1.prod.workshops.aws/workshops/5d74d234-0149-4b82-982a-4c040b85d0f2/ko-KR/app/lab2)
+> [Lab 2 실습 가이드](workbook/3. AI 투자 어드바이저/3-2. Lab 2: 포트폴리오 설계사 (Tool use))
 
 <img src="dataset/images/lab2_architecture.png" width="70%" alt="Agentic AI Workshop Overview">
 
@@ -74,7 +74,7 @@
 3. Bedrock Agent 생성 및 설정
 
 ### Lab 3: 리스크 관리사 (Risk Manager)
-> [Lab 3 실습 가이드](https://catalog.us-east-1.prod.workshops.aws/workshops/5d74d234-0149-4b82-982a-4c040b85d0f2/ko-KR/app/lab3)
+> [Lab 3 실습 가이드](workbook/3. AI 투자 어드바이저/3-3. Lab 3: 리스크 관리사 (Planning))
 
 <img src="dataset/images/lab3_architecture.png" width="70%" alt="Agentic AI Workshop Overview">
 
@@ -86,7 +86,7 @@
 3. 리스크 분석 시스템 구축
 
 ### Lab 4: 투자 어드바이저 (Investment Advisor)
-> [Lab 4 실습 가이드](https://catalog.us-east-1.prod.workshops.aws/workshops/5d74d234-0149-4b82-982a-4c040b85d0f2/ko-KR/app/lab4)
+> [Lab 4 실습 가이드](workbook/3. AI 투자 어드바이저/3-3. Lab 4: 투자 어드바이저 (Multi Agent))
 
 <img src="dataset/images/lab4_architecture.png" width="70%" alt="Agentic AI Workshop Overview">
 
